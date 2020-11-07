@@ -1,4 +1,4 @@
-baseurl = "https://coolncrazy.club"
+baseurl = "https://coolncrazy.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
